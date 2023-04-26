@@ -1,0 +1,26 @@
+# ninja log v5
+1	4239	1643053187697303899	CMakeFiles/test_transform.dir/test/test_transform.cpp.o	408dcb317cb70dc
+0	10827	1642363353021152185	CMakeFiles/svg.dir/svg/png_image.cpp.o	cc53e8f67eaec97a
+8	3155	1643053113833265798	CMakeFiles/svg.dir/svg/elements.cpp.o	43535cbee2aa6eee
+15989	16340	1642363358529147921	convert	be27da7b1191fa61
+3974	4037	1643055009914263405	libsvg.a	c1aaed5706277d20
+3156	6485	1643053117165266147	CMakeFiles/test_use.dir/test/test_use.cpp.o	ccab8d9ffbadcd09
+4239	4615	1643053188073304247	test_transform	b95a914aee153b05
+33698	33710	1642363769821661891	lib/libgtest_maind.a	c3d8d9af958fe4eb
+2	3738	1643053133157269691	CMakeFiles/test_ellipse.dir/test/test_ellipse.cpp.o	1fa351418aa52162
+4037	4887	1643055010754269001	test_use	aecb94e2bbed18d0
+1	3468	1643053158657281544	CMakeFiles/test_polygon.dir/test/test_polygon.cpp.o	e7ec0c7fbe5db251
+7	6149	1642363742253587587	external/gtest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	4e0844f339dcc9e2
+6149	33586	1642363769681661503	external/gtest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	1edd0c721bcadac8
+10946	13253	1642363355445150264	CMakeFiles/convert.dir/programs/convert.cpp.o	2fd6619b94abfd50
+1	3830	1643053145793274630	CMakeFiles/test_group.dir/test/test_group.cpp.o	6c6102e81086f36d
+3	3559	1643053174893292911	CMakeFiles/test_polyline.dir/test/test_polyline.cpp.o	41fc0eb39d6a7443
+3559	4220	1643053175557293437	test_polyline	f1e07bf3784e379d
+2	3974	1643055009842262926	CMakeFiles/svg.dir/svg/svg_to_png.cpp.o	7df0e0bd68048302
+3738	4533	1643053133949269946	test_ellipse	d26ecff40446ca52
+3468	4148	1643053159337281962	test_polygon	7a965938777a3225
+33598	33698	1642363769797661825	lib/libgtestd.a	fe2bda318d4d7cda
+3830	4508	1643053146469274946	test_group	4d5bbc353d8c8353
+15954	15989	1642363358181148179	libtinyxml2.a	269a4db5a8f1cf22
+9686	15953	1642363358137148211	CMakeFiles/tinyxml2.dir/external/tinyxml2/src/tinyxml2.cpp.o	e170b22298cafa18
+6314	7940	1642363350133154571	CMakeFiles/svg.dir/svg/shape.cpp.o	9f2847e0ebf91fa3
